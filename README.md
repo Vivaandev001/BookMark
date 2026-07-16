@@ -1,4 +1,4 @@
-# 🌑 Dark One
+# 🌑 BookMark V2 with Dark ui.
 
 **A modern, minimalist, and privacy-focused bookmark manager designed for people who collect, organize, and access the web effortlessly.**
 
